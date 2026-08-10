@@ -1,8 +1,8 @@
 class Interpelly < Formula
   desc "Monitor degli interpelli per supplenze (francese/sostegno) — Milano e Lombardia"
   homepage "https://github.com/eliobenigni7/interpelly"
-  url "https://github.com/eliobenigni7/homebrew-interpelly/releases/download/v1.0.2/interpelly-v1.0.2.tar.gz"
-  sha256 "26b9d3b0fd30373571468bc03c132705ec5840f2028f86535b1b76beefd337f7"
+  url "https://github.com/eliobenigni7/homebrew-interpelly/releases/download/v1.1.0/interpelly-v1.1.0.tar.gz"
+  sha256 "526578d8ff96f9085f603d86825f17bd9dd9bc7da464de6a0dd848714c5feda0"
   license "CC-BY-NC-4.0"
 
   depends_on "python@3.12"
