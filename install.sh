@@ -4,7 +4,7 @@
 # Uso:  curl -fsSL https://raw.githubusercontent.com/eliobenigni7/homebrew-interpelly/main/install.sh | bash
 set -euo pipefail
 
-VERSION="${INTERPELLY_VERSION:-v1.0.0}"
+VERSION="${INTERPELLY_VERSION:-v1.3.1}"
 DIR="${INTERPELLY_DIR:-$HOME/interpelly}"
 URL="https://github.com/eliobenigni7/homebrew-interpelly/releases/download/${VERSION}/interpelly-${VERSION}.tar.gz"
 
